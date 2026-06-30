@@ -2,13 +2,10 @@
 
 I'm Jasper — I’m interested in data analysis and machine learning.
 
-- 🔭 I’m currently working on data analysis projects and learning ML techniques.
-- 🌱 I’m currently learning Python for data science, scikit-learn, pandas, and deep learning fundamentals.
-- 👯 I’m looking to collaborate on machine learning projects, data pipelines, and exploratory data analysis.
-- 💬 Ask me about data visualization, feature engineering, or model evaluation.
-- 📫 How to reach me: (add your email or social links here)
-- 😄 Pronouns: (optional)
-- ⚡ Fun fact: I enjoy turning messy data into clear insights.
+-  I’m currently working on data analysis projects and learning ML techniques.
+-  I’m currently learning Python for data science, scikit-learn, pandas, and deep learning fundamentals.
+-  I’m looking to collaborate on machine learning projects, data pipelines, and exploratory data analysis.
+
 
 
 <!--
